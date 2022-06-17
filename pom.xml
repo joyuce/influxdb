@@ -44,7 +44,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.61</version>
+            <version>1.2.83</version>
         </dependency>
     </dependencies>
     <!--依赖管理, 在此声明的项目子模块在引用时无需指定版本号-->
